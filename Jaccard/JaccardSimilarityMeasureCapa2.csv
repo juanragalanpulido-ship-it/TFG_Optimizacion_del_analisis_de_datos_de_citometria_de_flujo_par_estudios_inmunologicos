@@ -1,0 +1,5 @@
+﻿Algoritmo;Concat24k;Concat48k;Concat120k;Concat192k;Concat240k
+Xshift;0.43;0.48;0.53;0.53;0.52
+Phenograph;0.46;0.53;0.59;0.57;0.59
+FlowSOM;0.57;0.57;0.55;0.56;0.54
+flowmeans;0.29;0.31;0.33;0.29;0.28
