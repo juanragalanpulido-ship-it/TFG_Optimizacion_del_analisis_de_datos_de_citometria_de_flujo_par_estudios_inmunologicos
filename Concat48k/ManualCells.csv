@@ -1,0 +1,19 @@
+Cluster;Cells
+Monocytes;6718
+CD14CD16neg;5749
+CD14loCD16pos;282
+CD14posCD16pos;615
+B cells;4032
+CD7;4368
+CD56bright;212
+CD57negNKG2Cneg;1842
+CD57negNKG2Cpos;51
+CD57posNKG2Cneg;1774
+CD57posNKG2Cpos;73
+CD56negCD16pos;224
+Basophils;971
+DCs;1171
+dnDCs;168
+mDCs;855
+pDCs;146
+T cells;27285
