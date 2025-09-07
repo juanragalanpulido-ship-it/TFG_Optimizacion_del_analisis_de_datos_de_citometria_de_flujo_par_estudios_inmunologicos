@@ -15,5 +15,10 @@ el script Graficos.R para generar los heatmaps correspondientes y hacer el rank-
 Para emplear el script Graficos.R debe de crear una carpeta en la que debe de copiar 
 los archivos flowMeansXXk, FlowSOMXXk, XshiftXX y PhenographXXk; además debe de crear 
 una carpeta dentro donde almacenará los archivos.csv que contienen el coeficiente de
-Jaccard. En esta misma carpeta se debe de encontrar el Tiempos.csv que contiene el 
-tiempo de ejecución para cada algoritmo.
+Jaccard. De igual manera, deberá crear una carpeta Tiempo donde almacenará el archivo 
+Tiemposdeejecucion.csv.
+
+Teniendo en cuenta estas instrucciones el script debe de funcionar correctamente. Revise
+los paquetes necesarios cargados en cada archivo por si requier de instalación.
+
+Los scripts se ejecutaron en la versión 4.5.1 de R y con Rtools45.
